@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Zee96931 👋
 
-<!--
-**Zee96931/Zee96931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GTHisLive
 
-Here are some ideas to get you started:
+AI Streaming Assistant & YouTube Live Chatbot for creators.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Website:** https://gthislive-frontend.onrender.com/
+
+### GTHisLive
+
+GTHisLive helps YouTube creators manage live chat with AI-assisted replies,
+creator controls, and supported live-stream automation.
+
+### Links
+
+- [GTHisLive Website](https://gthislive-frontend.onrender.com/)
+- [AI Streaming Assistant](https://gthislive-frontend.onrender.com/ai-streaming-assistant)
+- [YouTube Live AI Chatbot](https://gthislive-frontend.onrender.com/youtube-live-ai-chatbot)
+- [Features](https://gthislive-frontend.onrender.com/features)
+- [Docs](https://gthislive-frontend.onrender.com/docs)
+- [Security & Trust](https://gthislive-frontend.onrender.com/security)
+
+### Project
+
+🔒 Production application source code is maintained privately.
+
+📢 Public project showcase:
+https://github.com/Zee96931/GTHisLive-showcase
